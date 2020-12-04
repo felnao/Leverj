@@ -1,6 +1,13 @@
-type ExampleEntity @entity {
+type Transferx @entity {
   id: ID!
-  count: BigInt!
-  owner: Bytes! # address
-  spender: Bytes! # address
+  from: Bytes!
+  to: Bytes! 
+  value: BigInt!
+}
+
+type Approvalx @entity {
+  id: ID!
+  owner: Bytes!
+  spender: Bytes! 
+  value: BigInt!
 }
