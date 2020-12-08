@@ -1,5 +1,5 @@
 
-**Leverj (L2) is a cryptocurrency and operates on the Ethereum platform.**
+Leverj (L2) is a cryptocurrency and operates on the Ethereum platform.
 
 Types of Data : 
 
@@ -11,6 +11,7 @@ Transferx
 Approvalx
 
 
-Deployed Version
+Deployed Version:
+
 A deployed version of the Leverj subgraph can be found in https://thegraph.com/explorer/subgraph/felnao/leverj
 
