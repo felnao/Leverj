@@ -7,9 +7,7 @@ data on transactions
 
 Entities:
 
-Transferx
-Approvalx
-
+Transferx and Approvalx
 
 Deployed Version:
 
