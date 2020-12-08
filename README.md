@@ -1,5 +1,5 @@
 
-Leverj (L2) is a cryptocurrency and operates on the Ethereum platform.
+**Leverj (L2) is a cryptocurrency and operates on the Ethereum platform.**
 
 Types of Data : 
 
