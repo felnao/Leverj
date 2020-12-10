@@ -1,3 +1,4 @@
+Subgraph by Felnao#9580 and ALD#8084
 
 Leverj (L2) is a cryptocurrency and operates on the Ethereum platform.
 
